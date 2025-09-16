@@ -54,8 +54,3 @@ pip install -r requirements.txt
 
 # 4. Run backend
 uvicorn backend.app:app --reload
-
-
-
-
-
