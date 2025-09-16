@@ -10,7 +10,7 @@ This leads to:
 Transit agencies **lack tools** to forecast demand surges and adjust schedules in real time.
  
 
-## Prototype built in 36 hours for Hackathon — **Problem Statement 2**  
+## Prototype built in 36 hours for Hackathon   
 
 Urban bus systems in Tier-1 Indian cities often run on static timetables. This causes **bus bunching, empty off-peak trips, and unpredictable wait times**.  
 Our solution: a **Smart Bus Management System** that adapts in real time to improve efficiency and passenger experience.  
@@ -54,6 +54,7 @@ pip install -r requirements.txt
 
 # 4. Run backend
 uvicorn backend.app:app --reload
+
 
 
 
